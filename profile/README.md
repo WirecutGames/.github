@@ -1,3 +1,5 @@
+![Poster](https://i.imgur.com/SArKTzk.png)
+
 ## Welcome Wirecut's official GitHub organization!
 **Wirecut Games** is a indie (independent) studio based in the Bay Area in California. We belive in open-source software, a think less program more mentality, and developing games that are fun.
 This is where you can find all of our open-source projects, mod templates, open-source public libraries, open-sourced games (none yet ☹️), and so on.
