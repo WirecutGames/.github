@@ -1,7 +1,6 @@
 ![Poster](https://i.imgur.com/SArKTzk.png)
 
-## Welcome Wirecut's official GitHub organization!
-### Connect your soul
+## Welcome Wirecut's official GitHub organization! <Connect to your soul!>
 ---
 ### Our games
 
