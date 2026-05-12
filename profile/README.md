@@ -20,7 +20,7 @@ Our website is avaliable at: https://wirecutgames.net/
 ---
 ### Our resources
 
-![basalt](https://i.imgur.com/aLCE6Ri.png)
+![basalt](https://i.imgur.com/N9upH0X.png)
 Our engine Basalt, is closed source
 
 ![openbasalt](https://i.imgur.com/1G7BGwX.png)
