@@ -24,5 +24,5 @@ Our website is avaliable at: https://wirecutgames.net/
 Our engine Basalt, is closed source
 
 ![openbasalt](https://i.imgur.com/1G7BGwX.png)
-We have a open source version of basalt called OpenBasalt
+We have a open source version of basalt called <img src="https://github.com/WirecutGames/OpenBasalt" style="width: 1.25em; height: auto; margin-top: 0.2em;"> OpenBasalt
 
