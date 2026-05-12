@@ -1,7 +1,7 @@
 ![Poster](https://i.imgur.com/SArKTzk.png)
 
 ## Welcome Wirecut's official GitHub organization!
-**Wirecut Games** is a indie (independent) studio based in the Bay Area in California.
+
 ---
 ### Our games
 
