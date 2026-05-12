@@ -19,4 +19,6 @@ Our website is avaliable at: https://wirecutgames.net/
 
 ---
 ### Our resources
-We seek to provide resources for other indie developers and studios to create their own high-quality games. We currently do not have any resources provided, but we are working to fix that.
+
+Our engine ![basalt](https://i.imgur.com/yr9ik7p.png)Basalt, is closed source, but we have a version called OpenBasalt
+
